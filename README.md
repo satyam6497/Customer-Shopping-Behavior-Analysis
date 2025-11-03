@@ -85,4 +85,20 @@ Built an **interactive Power BI dashboard** to visualize:
 | **Power BI** | Dashboard design and visualization |
 | **Excel & PowerPoint** | Reporting and stakeholder presentation |
 
+## 🎯 Outcome
+This project demonstrates my ability to:
+- Handle the **end-to-end data analytics process** (ETL → SQL → Visualization)
+- Translate raw data into **business insights and recommendations**
+- Build **interactive dashboards** that enable strategic decision-making  
+
+**✅ Result:** A strong showcase of my skills as a **Data Analyst / Business Analyst / BI Developer**, capable of combining technical proficiency with business understanding.
+
+---
+
+## 👨‍💻 Author  
+**Satyam Mishra**  
+📍 Data Analyst | BI & SQL Developer | Python Enthusiast  
+📧 satyam.mishra.dec17@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/satyam-mishra-dec17/) | [[GitHub](https://github.com/satyam6497)]
+
 
